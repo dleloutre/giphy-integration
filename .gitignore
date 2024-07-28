@@ -1,0 +1,5 @@
+mysql
+src/.env
+src/composer.lock
+src/vendor
+.idea
