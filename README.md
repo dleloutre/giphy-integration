@@ -66,7 +66,7 @@ To build and run the application, follow these steps:
     ```
 
 ## Running the Application
-Once the installation is complete, the application should be running and accessible via the configured URL. Use the provided endpoints to interact with the API.
+Once the installation is complete, the application should be running and accessible via the configured URL. Don't forget to add your Giphy api key to the `.env` file. Use the provided endpoints to interact with the API.
 
 ## API Endpoints
 The following endpoints are available in the Giphy Integration API:
