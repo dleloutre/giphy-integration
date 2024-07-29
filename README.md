@@ -106,10 +106,20 @@ docker exec -it app php artisan test
 The following diagrams are included to illustrate the application flow and data relationships:
 
 ### 1. Sequence Diagram
-![Sequence Diagram](path/to/sequence-diagram.png)
+#### Login + Request log
+![Login Sequence Diagram](/images/sd_login.png)
+
+#### Search GIFs
+![Search Sequence Diagram](/images/sd_search.png)
+
+#### Search GIF by ID
+![Search By Id Sequence Diagram](/images/sd_getGif.png)
+
+#### Save favorite GIF
+![Save Favorite Sequence Diagram](/images/sd_favorite.png)
 
 ### 2. Entity-Relationship Diagram (ERD)
-![ERD Diagram](path/to/erd-diagram.png)
+![ERD Diagram](/images/erd_diagram.png)
 
 ### 3. Use Case Diagram
-![Use Case Diagram](path/to/use-case-diagram.png)
+![Use Case Diagram](/images/usecase.png)
