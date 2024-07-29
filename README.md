@@ -94,7 +94,7 @@ The following endpoints are available in the Giphy Integration API:
 - **Description:** Saves a GIF to the user's favorites.
 - **Authorization:** Required
 
-For detailed API documentation, refer to the Postman Collection.
+For detailed API documentation, refer to the [Postman Collection](https://documenter.getpostman.com/view/35314599/2sA3kaCK9x target="_blank").
 
 ## Testing
 To run the tests, use the following command:
